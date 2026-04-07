@@ -1,22 +1,22 @@
 ---
-source_url: https://arxiv.org/abs/1904.05222
+source_url: https://dl.acm.org/doi/10.1145/3298689.3346996
 pdf_path: raw/papers/two-tower-sampling-bias/two-tower-sampling-bias.pdf
-arxiv_id: 1904.05222
-title: "Calculus, constrained minimization and Lagrange multipliers: Is the optimal critical point a local minimizer?"
-authors: "Ademir Alves Ribeiro, Jose Renato Ramos Barbosa"
+arxiv_id: N/A
+title: "Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations"
+authors: "Xinyang Yi, Ji Yang, Lichan Hong, Derek Zhiyuan Cheng, Lukasz Heldt, Aditee Ajit Kumthekar, Zhe Zhao, Li Wei, Ed Chi"
 downloaded_date: 2026-04-07
 type: paper
 ---
 
-# Calculus, constrained minimization and Lagrange multipliers: Is the optimal critical point a local minimizer?
+# Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations
 
-**Authors**: Ademir Alves Ribeiro, Jose Renato Ramos Barbosa
+**Authors**: Xinyang Yi, Ji Yang, Lichan Hong, Derek Zhiyuan Cheng, Lukasz Heldt, Aditee Ajit Kumthekar, Zhe Zhao, Li Wei, Ed Chi
 
-**arXiv**: [1904.05222](https://arxiv.org/abs/1904.05222)
+**Source**: [https://dl.acm.org/doi/10.1145/3298689.3346996](https://dl.acm.org/doi/10.1145/3298689.3346996)
 
 ## Abstract
 
-In this short note, we discuss how the optimality conditions for the problem of minimizing a multivariate function subject to equality constraints have been dealt with in undergraduate Calculus. We are particularly interested in the 2 or 3-dimensional cases, which are the most common cases in Calculus courses. Besides giving sufficient conditions to a critical point to be a local minimizer, we also present and discuss counterexamples to some statements encountered in the undergraduate literature on Lagrange Multipliers, such as `among the critical points, the ones which have the smallest image (under the function) are minimizers' or `a single critical point (which is a local minimizer) is a global minimizer'.
+*(To be filled by the LLM agent during compilation)*
 
 ## Key Takeaways
 

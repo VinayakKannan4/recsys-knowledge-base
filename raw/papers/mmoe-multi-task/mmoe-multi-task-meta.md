@@ -1,22 +1,22 @@
 ---
-source_url: https://arxiv.org/abs/1707.08114
+source_url: https://dl.acm.org/doi/10.1145/3219819.3220007
 pdf_path: raw/papers/mmoe-multi-task/mmoe-multi-task.pdf
-arxiv_id: 1707.08114
-title: "A Survey on Multi-Task Learning"
-authors: "Yu Zhang, Qiang Yang"
+arxiv_id: N/A
+title: "Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts"
+authors: "Jiaqi Ma, Zhe Zhao, Xinyang Yi, Jilin Chen, Lichan Hong, Ed H. Chi"
 downloaded_date: 2026-04-07
 type: paper
 ---
 
-# A Survey on Multi-Task Learning
+# Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts
 
-**Authors**: Yu Zhang, Qiang Yang
+**Authors**: Jiaqi Ma, Zhe Zhao, Xinyang Yi, Jilin Chen, Lichan Hong, Ed H. Chi
 
-**arXiv**: [1707.08114](https://arxiv.org/abs/1707.08114)
+**Source**: [https://dl.acm.org/doi/10.1145/3219819.3220007](https://dl.acm.org/doi/10.1145/3219819.3220007)
 
 ## Abstract
 
-Multi-Task Learning (MTL) is a learning paradigm in machine learning and its aim is to leverage useful information contained in multiple related tasks to help improve the generalization performance of all the tasks. In this paper, we give a survey for MTL from the perspective of algorithmic modeling, applications and theoretical analyses. For algorithmic modeling, we give a definition of MTL and then classify different MTL algorithms into five categories, including feature learning approach, low-rank approach, task clustering approach, task relation learning approach and decomposition approach as well as discussing the characteristics of each approach. In order to improve the performance of learning tasks further, MTL can be combined with other learning paradigms including semi-supervised learning, active learning, unsupervised learning, reinforcement learning, multi-view learning and graphical models. When the number of tasks is large or the data dimensionality is high, we review online, parallel and distributed MTL models as well as dimensionality reduction and feature hashing to reveal their computational and storage advantages. Many real-world applications use MTL to boost their performance and we review representative works in this paper. Finally, we present theoretical analyses and discuss several future directions for MTL.
+*(To be filled by the LLM agent during compilation)*
 
 ## Key Takeaways
 
